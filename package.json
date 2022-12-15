@@ -50,8 +50,8 @@
     "node-sass": "^4.9.3",
     "postcss-cssnext": "^3.1.0",
     "postcss-url": "^8.0.0",
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
     "rimraf": "^3.0.0",
     "rollup": "^2.21.0",
     "rollup-plugin-commonjs": "^10.1.0",
@@ -67,8 +67,8 @@
     "typescript": "^3.0.3"
   },
   "peerDependencies": {
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
   },
   "dependencies": {
     "custom-event-polyfill": "^1.0.6",
